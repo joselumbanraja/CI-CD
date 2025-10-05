@@ -9,6 +9,6 @@
 ##  Link
 
 - Website Live: [https://joselumbanraja.github.io/CI-CD/](https://joselumbanraja.github.io/CI-CD/)  
-- Repository GitHub: [github.com/joselumbanraja/CI-CD](https://github.com/joselumbanraja/CI-CD)
+- Repository GitHub: [github.com/joselumbanraja/CI-CD](https://github.com/joselumbanraja/Continuous-Delivery)
 
 ---
